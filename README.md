@@ -1,2 +1,16 @@
-# example-datasets
-A curated set of minidatasets, in both raw and standardized forms. Produced during the InsectAI "datathon" where participants brought together minidatasets, working in teams to adopt and adapt the Camtrap DP data standard.
+# InsectAI Example Datasets: Camtrap DP and Derived Metadata Standards
+
+<img src="logos/insectAI.svg" alt="InsectAI Logo" width="300"/>
+<img src="logos/tdwg-logo-short.svg" alt="CamtrapDP Logo" width="325"/>
+
+---
+
+## 🧪 Contents
+
+- `datasets/` - example datasets
+- `logos/` – organization logos for use in notebooks and presentations
+- `README.md` – this file
+
+## Link to 2025 InsectAI demo of CamtrapDP
+
+[https://github.com/cpadubidri/insectAI-demo.git]
